@@ -1,0 +1,3 @@
+- 👋 Hi, I’m SeongHwan Park.
+- 👀 I’m interested in IT.
+- 🌱 I’m currently learning Deep learning.
