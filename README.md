@@ -1,2 +1,2 @@
-- 👋 Hi, I’m SeongHwan Park.
+- 👋 Helo. I’m SeongHwan Park.
 - 💻 I am currently working on NLP deep learning.
