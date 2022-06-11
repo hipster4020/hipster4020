@@ -1,4 +1,4 @@
-👋 Hello. I’m SeongHwan Park.
+👋 Hello. I’m SeongHwan Park.<br>
 💻 I am currently working on NLP deep learning.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I mainly use python language.<br>
 👉🏻 it is the main project I've been working on.
