@@ -1,3 +1,2 @@
 - 👋 Hi, I’m SeongHwan Park.
 - 💻 I am currently working on NLP deep learning.
-- 🎸 I like to play the guitar and fifa22
