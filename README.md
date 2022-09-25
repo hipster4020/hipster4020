@@ -4,7 +4,7 @@
 👉🏻 it is the main project I've been working on.
 <blockquote>
 <b>koelectra pretrained model with active learning</b><br>
-https://github.com/hipster4020/sentiment_classification<br>
+https://github.com/hipster4020/sentiment_classification<br><br>
 <b>transformer encoder model with pytorch, tensorflow</b><br>
 https://github.com/hipster4020/encoder_classifier_with_pl<br>
 https://github.com/hipster4020/category_classification<br>
