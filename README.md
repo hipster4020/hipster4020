@@ -1,7 +1,7 @@
 👋🏻 Hello. I’m <b>SeongHwan Park</b>.<br><br>
 💻 I am currently working on <b>NLP deep learning</b>.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I mainly use <b>Python Language</b>.<br>
-Recently, I am interested in language generative models.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recently, I am interested in language generative models.<br><br>
 👉🏻 it is the main project I've been working on.
 <blockquote>
 <b>koelectra pretrained model with active learning</b><br>
