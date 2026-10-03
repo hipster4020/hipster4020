@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile.jpg" width="200" alt="SeongHwan Park" />
+<img src="assets/profile.jpg" width="400" alt="SeongHwan Park" />
 
 # SeongHwan Park
 
@@ -135,7 +135,7 @@ BJPublic
 
 A hands-on guide to Hugging Face for NLP, built around practice code and its results so readers understand language models and transformers through the library's own features.
 
-[📖 Kyobo Book](https://product.kyobobook.co.kr)
+[📖 Kyobo Book](https://product.kyobobook.co.kr/detail/S000215102182)
 
 </td>
 </tr>
