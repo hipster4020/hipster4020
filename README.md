@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile.jpg" width="400" alt="SeongHwan Park" />
+<img src="assets/profile.jpg" width="250" alt="SeongHwan Park" />
 
 # SeongHwan Park
 
@@ -162,23 +162,3 @@ A hands-on guide to Hugging Face for NLP, built around practice code and its res
 - `2019.04` SQLD — Korea Data Agency
 - `2017.05` Engineer Information Processing — HRD Korea
 - `2014.08` Social Survey Analyst Level 2 — HRD Korea
-
----
-
-## 🗂 Featured Repositories
-
-| Repository | Description |
-|---|---|
-| [pshmodule](https://github.com/hipster4020/pshmodule) | Utility package for preprocessing, file I/O and crawling (PyPI) |
-| [sentiment_classification](https://github.com/hipster4020/sentiment_classification) | KoELECTRA sentiment classification with active learning |
-| [encoder_classifier_with_pl](https://github.com/hipster4020/encoder_classifier_with_pl) | Transformer encoder classifier with PyTorch Lightning |
-| [category_classification](https://github.com/hipster4020/category_classification) | Article category classification |
-| [keybert](https://github.com/hipster4020/keybert) | Keyword extraction with KeyBERT |
-
-<div align="center">
-
-<br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hipster4020&show_icons=true&hide_border=true)
-
-</div>
