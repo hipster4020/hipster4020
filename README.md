@@ -6,7 +6,7 @@
 
 **AI Agent Engineer / LLM Application Developer**
 
-[![Gmail](https://img.shields.io/badge/Gmail-hipster4020@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hipster4020@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-hipster4020@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=hipster4020@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://hipster4020.tistory.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-hipster4020-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hipster4020)
 [![PyPI](https://img.shields.io/badge/PyPI-pshmodule-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/pshmodule/)
